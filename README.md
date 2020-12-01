@@ -1,0 +1,16 @@
+ boto3==1.16.16
+ botocore==1.19.16
+ jmespath==0.10.0
+ python-dateutil==2.8.1
+ s3transfer==0.3.3
+ six==1.15.0
+ urllib3==1.25.11
+ boto3==1.16.16
+ botocore==1.19.16
+ jmespath==0.10.0
+ python-dateutil==2.8.1
+ s3transfer==0.3.3
+ six==1.15.0
+ urllib3==1.25.11
+ PyYAML==5.3.1
+ pydantic==1.7.2
